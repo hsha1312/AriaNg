@@ -18,6 +18,10 @@
             name: 'Russian',
             displayName: 'Русский'
         },
+        'es_ES': {
+            name: 'Spanish',
+            displayName: 'Español'
+        },
         'zh_Hans': {
             name: 'Simplified Chinese',
             displayName: '简体中文',
